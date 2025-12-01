@@ -5,3 +5,5 @@
 병합충돌 2clone 2
 
 rebase test
+
+충돌시 rebase 강제 해결
